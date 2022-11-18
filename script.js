@@ -20,4 +20,6 @@ q
 z
 let x = 0
 
+'jhon'
+
 console.log('SEI LÀ');
